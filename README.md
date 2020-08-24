@@ -14,4 +14,13 @@ We would like to create an app that can be played on a mobile device. The app wo
 -Thinking out of the box
 
 
+## Schedule Management:
 
+| Names | Roles | Week-1 | Week-2 | week-3 | week-4 | week-5 | week-6 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
+|-----------------------|------|-------|--------|---------|----------|--------------|---------|
+|1. Harika Kulkarni | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 4.5hrs  4.5hrs  4.5hrs  8.5hrs | 13hrs |
+|2. Prudhvi Naskanti | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs  4.5hrs  4.5hrs  8.5hrs | 13hrs |
+|3. Dixith Maram | Developer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs  4.5hrs  7.5hrs | 12hrs |
+|4. Bhaskar Reddy Minupuri | Tester | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs  4.5hrs  9.5hrs | 14hrs |
+|5. Sai Rohith Gorla  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs  4.5hrs  4.5hrs  8.5hrs | 13hrs |
+|6. Ravi Chander Goli  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs  4.5hrs  4.5hrs  8.5hrs | 13hrs |
