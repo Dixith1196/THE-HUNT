@@ -2,12 +2,7 @@
 
 ## Statment Of Pupose
 
-2020 has turned out to be an interesting year. We would like to create an outside, socially-distant game that:
-
-* Encourages outside activity.
-* Introduces Bearcats to unique and special parts of campus.
-* Supports teamwork, while allowing players to remain safe.
-* Could be an engaging icebreaker for various student organizations.
+We would like to create a gaming application for NWMSU which works on iPhone SE, Android device, laptop and an iPad. The main motto behind this idea of creating a gaming application is to bring bearcats of diverse departments onto a common platform which helps students to interact, encourages students to unique and special parts of campus, contributes in developing an attitude towards teamwork.
 
 ## Overview
 
