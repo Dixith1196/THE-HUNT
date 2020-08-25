@@ -16,6 +16,8 @@ Thinking out of the box.
 ## Entity Relationship Diagram:
 ![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram.png?raw=true)
 
+# Sample Date In Excel of Each Entity
+
 
 # Risks and Assumptions
 # Risks
