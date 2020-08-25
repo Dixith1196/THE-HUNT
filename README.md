@@ -13,49 +13,48 @@ Improves the ability to think in logical way.
 Handling difficult situation with team effort.
 Thinking out of the box.
 
-## Roles
-* Project Manager - Pruthvi Naskanti
-* Back end Developer - Deekshith Maram 
-* Back end Developer - Bhaskar Reddy Minupuri
-* FrontEnd Developer - Ravichander Reddy Goli
-* Database Engineer - Harika Kulkarni
-* Test Engineer- Sai Rohith Gorla
-
-## Entity Relationship Diagram:
+## Entity Relationship Diagram
 ![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram.png?raw=true)
-### User Entity: 
+
+### User Entity
 The User entity has 4 attributes namely:Username,Email,Password,Date last accessed.It stores the username,email,password and last accessed of the user.
 A single User may be into one team or multiple teams.User may create and manage a team or join a team and particpate in the quest.
 
-### Team entity:
+### Team entity
 Team entity has 6 attributes namely:Team number,Team name,creator,Date created,Date last edited,Username of the team members.
 The user serves as captain of any team they create and he provides the team name.
 
-### Player Entity:
+### Player Entity
 This entity has two attributes:Player nickname and score of the player.A single user can play with different nicknames and score accordingly.
 
-### TeamPlayer Entity:
+### TeamPlayer Entity
 TeamPlayer entity is an associative entity that maps between Team and Player.
 It contains attributes DateInvited,Date accpeted Invite,date rejectedInvite and Dateleft team.
 The captain provides a list of emails of invited members.A user can accept the team invite and become a team player or reject it.
 After three days, if not accepted, assume rejection.
 
-### Quest Entity:
+### Quest Entity
 This entity has 4 attributes.Quest name,Designer of the quest,Date created and date last accessed.The user serves as designer of any quest they create and they 
 provide a quest name.
 
-### QuestLocation mapping:
+### QuestLocation mapping
 This entity consists of 2 attributes.Quest name and Location number.
 
-### Location Entity:
+### Location Entity
 This entity consists of Location number,Location clue and Location coordinates.The designer provides a list of locations for the quest.
 
-### Competition Entity:
+### Competition Entity
 This entity consists of CompetitionID,Competion name,creator,date created,start time and endtime of the competition.The user serves as the hunt master of the competion.
 The hunt master specifies the start date time and end time for the competion.
 
-### CompetitionTeam: 
+### CompetitionTeam 
 This entity is also an associative entity that map teams and competitions.It consists of 3 attributes:Competion ID,Team Number,Team score that stores the scores of different team members.
+
+### JIRA Link to Project
+[JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
+
+### JIRA Sprint 1
+
 
 
 # Sample Data In Excel of Each Entity
@@ -112,5 +111,4 @@ For mobile devices, consumers anticipate certain interaction patterns and elemen
 
 ## Symbols can be easily understand by the users
 Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in communicating the action that we wish the users to accomplish. 
-
 
