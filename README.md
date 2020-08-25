@@ -14,7 +14,7 @@ Handling difficult situation with team effort.
 Thinking out of the box.
 
 ## Entity Relationship Diagram:
-![image](ER Diagram.png)
+![title](Images/ER Diagram.png)
 
 
 # Risks and Assumptions
