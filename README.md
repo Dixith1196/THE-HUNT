@@ -13,8 +13,8 @@ Improves the ability to think in logical way.
 Handling difficult situation with team effort.
 Thinking out of the box.
 
-##Entity Relationship Diagram:
-![image](C:/Users/s538299/Documents/563/practice/ER Diagram (2).png)
+## Entity Relationship Diagram:
+![image](/Users/s538299/Documents/563/practice/ER Diagram (2).png)
 
 
 # Risks and Assumptions
