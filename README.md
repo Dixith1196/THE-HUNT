@@ -11,10 +11,13 @@ We would like to create an app that can be played on a mobile device. The app wo
 ## Benefits
 
 * Improves the ability to think in logical way.
-* Handling difficult situation with team effort.
+* Encourages teamwork Attitude.
 * Thinking out of the box.
 * Interacting new people.
-* 
+* Improves Leadership Skills.
+* Builds problem Solving Ability.
+* Improves Imagination.
+* Exploring new locations.
 
 
 ## Entity Relationship Diagram
