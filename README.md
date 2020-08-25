@@ -14,7 +14,7 @@ Handling difficult situation with team effort.
 Thinking out of the box.
 
 ## Entity Relationship Diagram:
-![title](Images/ER.png)
+![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram.png?raw=true)
 
 
 # Risks and Assumptions
