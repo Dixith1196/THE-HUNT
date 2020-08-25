@@ -13,6 +13,14 @@ Improves the ability to think in logical way.
 Handling difficult situation with team effort.
 Thinking out of the box.
 
+## Roles
+* Project Manager - Pruthvi Naskanti
+* Back end Developer - Deekshith Maram 
+* Back end Developer - Bhaskar Reddy Minupuri
+* FrontEnd Developer - Ravichander Reddy Goli
+* Database Engineer - Harika Kulkarni
+* Test Engineer- Sai Rohith Gorla
+
 ## Entity Relationship Diagram:
 ![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram.png?raw=true)
 ### User Entity: 
