@@ -105,7 +105,6 @@ provide a quest name.
 
 ## Schedule Management:
 
-# Risk of location access.
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 | Names | Roles | Week-1 | Week-2 | week-3 | week-4 | week-5 | week-6 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|--------|--------|--------|
