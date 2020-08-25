@@ -106,6 +106,13 @@ provide a quest name.
 ## Symbols can be easily understand by the users
 * Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in communicating the action that we wish the users to accomplish. 
 
+## Acceptance Criteria:
+
+- Each player should be having a smart phone
+-Should be able to plan the route
+- scout out the location
+
+
 ## Schedule Management:
 
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
@@ -129,15 +136,5 @@ The process of poor coding and insecure handling of location data may cause the 
 
 Overall Cost estimation to develop this application - $9690
 
-## Cost Estimation:
-| Names | Roles | Number of Hours per week | Number of weeks | Cost per unit | Total Cost |
-|-----------------------|------|-------|--------|---------|----------|
-|1. Harika Kulkarni | Admin | 4 | 6 | $80/hr | $1920 |
-|2. Prudhvi Naskanti  | Developer | 3.5 | 6 | $70/hr | $1470 |
-|3. Dixith Maram | UI Designer | 4 | 6 | $70/hr | $1680 |
-|4. Bhaskar Reddy Minupuri |Developer| 4 | 6 | $70/hr | $1680 |
-|5. Sai Rohith Gorla | UI Designer | 3.5 | 6 | $70/hr | $1470 |
-|6. Ravi Chander Goli | Tester | 3.5 | 6 | $70/hr | $1470 |
 
-Overall Cost estimation to develop this application - $9690
 
