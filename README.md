@@ -72,6 +72,12 @@ provide a quest name.
 ![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG)
 ![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG)
 
+### Technology Stack
+
+* Front-End: Javascript, HTML, CSS
+* Back-End: Javascript, node.js, adonisjs
+* Database: MySql
+
 
 # Sample Data of Each Entity in Excel 
 [Excel Link](Sample_Data.xlsx)
@@ -105,12 +111,13 @@ provide a quest name.
 
 ## Schedule Management:
 
+# Risk of location access.
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 | Names | Roles | Week-1 | Week-2 | week-3 | week-4 | week-5 | week-6 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|--------|--------|--------|
 |1. Harika Kulkarni | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
 |2. Prudhvi Naskanti | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|3. Dixith Maram | UI Designer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
+|3. Deekshith Maram | UI Designer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
 |4. Bhaskar Reddy Minupuri | Developer | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
 |5. Sai Rohith Gorla  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
 |6. Ravi Chander Reddy Goli  | Tester | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
