@@ -1,6 +1,6 @@
 # THE-HUNT
 
-## Statment Of Pupose
+## Statement Of Pupose
 
 We would like to create a gaming application for NWMSU which works on iPhone SE, Android device, laptop and an iPad. The main motto behind this idea of creating a gaming application is to bring bearcats of diverse departments onto a common platform which helps students to interact, encourages students to unique and special parts of campus, contributes in developing an attitude towards teamwork.
 
@@ -14,28 +14,29 @@ We would like to create an app that can be played on a mobile device. The app wo
 -Thinking out of the box
 
 
-## Schedule Management:
+## Risks and Assumptions
+## Risks
+# Risk of Application based security break.
+Mobile security threats include everything from mobile forms of malware and spyware to the potential for unauthorized access to a device’s data, particularly in the case of accidental loss or theft of the device.
 
-| Names | Roles | Week-1 | Week-2 | week-3 | week-4 | week-5 | week-6 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
-|-----------------------|------|-------|--------|---------|----------|--------------|---------|--------|--------|--------|
-|1. Harika Kulkarni | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|2. Prudhvi Naskanti | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|3. Dixith Maram | UI Designer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
-|4. Bhaskar Reddy Minupuri | Developer | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
-|5. Sai Rohith Gorla  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|6. Ravi Chander Goli  | Tester | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
+# Risk of location access.
+The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
+
+# Risk in the Operating System and data retrieval.
+Defects in the kernel code and vendor supplied system code may cause the Iphone or android jailbreaks.
+
+# Risk of poor authorization and authentication.
+Weak authentication and authorization allows an adversary to access the mobile device, or it is anonymous backend.
 
 
+## Assumptions
+# Users must create an account.
+As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost devious from the consumer viewpoint.
 
-## Cost Estimation:
+# Application design must be same as the responsive web design.
+Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
+For mobile devices, consumers anticipate certain interaction patterns and elements of the graphical user interface.
 
-| Names | Roles | Number of Hours per day | Number of days | Cost per unit | Total Cost |
-|-----------------------|------|-------|--------|---------|----------|
-|1. Harika Kulkarni | Admin | 13 | 9 | $80/hr | $1040 |
-|2. Prudhvi Naskanti  | Developer | 13 | 9 | $100/hr | $1300 |
-|3. Dixith Maramy | UI Designer | 12 | 9 | $100/hr | $1200 |
-|4. Bhaskar Reddy Minupuri |Developer| 14 | 9 | $70/hr | $980 |
-|5. Sai Rohith Gorla | UI Designer | 13 | 9 | $90/hr | $1170 |
-|6. Ravi Chander Goli | Tester | 13 | 9 | $90/hr | $1170 |
+# Symbols can be easily understand by the users.
+Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in communicating the action that we wish the users to accomplish. 
 
-Overall Cost estimation to develop this application - $5690
