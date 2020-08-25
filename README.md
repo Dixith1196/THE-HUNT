@@ -66,17 +66,17 @@ provide a quest name.
 
 ### JIRA Sprint 1
 
-![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG)
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG?raw=true)
 
 ### JIRA Sprint 2
-![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG)
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG?raw=true)
 
 ### Application UI
-![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG)
-![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG)
-![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG)
+![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
+![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
+![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true)
 ![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG)
-![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG)
+![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true)
 ![profile](https://github.com/Dixith1196/THE-HUNT/blob/master/prof.PNG)
 
 
