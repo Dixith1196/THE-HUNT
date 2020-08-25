@@ -55,7 +55,7 @@ This entity is also an associative entity that map teams and competitions.It con
 
 ### JIRA Sprint 1
 
-
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG)
 
 # Sample Data of Each Entity in Excel 
 [Excel Link](Sample_Data.xlsx)
