@@ -96,5 +96,5 @@ The process of poor coding and insecure handling of location data may cause the 
 |3. Dixith Maram | UI Designer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
 |4. Bhaskar Reddy Minupuri | Developer | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
 |5. Sai Rohith Gorla  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|6. Ravi Chander Goli  | Tester | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
+|6. Ravi Chander Reddy Goli  | Tester | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
 
