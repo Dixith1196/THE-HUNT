@@ -62,7 +62,7 @@ Weak authentication and authorization allows an adversary to access the mobile d
 
 # Assumptions
 ## Users must create an account.
-As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost devious from the consumer view point.
+As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost skillful from the consumer view point.
 
 ## Application design must be same as the responsive web design.
 Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
