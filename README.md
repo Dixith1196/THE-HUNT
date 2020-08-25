@@ -57,7 +57,7 @@ The process of poor coding and insecure handling of location data may cause the 
 Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
 
 ## Risk of poor authorization and authentication
-Weak authentication and authorization allows an adversary to access the mobile device, or it is anonymous backend.
+Weak authentication and authorization allows an dispute to access the mobile device, or it is anonymous backend.
 
 
 # Assumptions
