@@ -14,29 +14,29 @@ We would like to create an app that can be played on a mobile device. The app wo
 -Thinking out of the box
 
 
-## Risks and Assumptions
-## Risks
-# Risk of Application based security break.
+# Risks and Assumptions
+# Risks
+## Risk of Application based security break.
 Mobile security threats include everything from mobile forms of malware and spyware to the potential for unauthorized access to a device’s data, particularly in the case of accidental loss or theft of the device.
 
-# Risk of location access.
+## Risk of location access.
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 
-# Risk in the Operating System and data retrieval.
+## Risk in the Operating System and data retrieval.
 Defects in the kernel code and vendor supplied system code may cause the Iphone or android jailbreaks.
 
-# Risk of poor authorization and authentication.
+## Risk of poor authorization and authentication.
 Weak authentication and authorization allows an adversary to access the mobile device, or it is anonymous backend.
 
 
-## Assumptions
-# Users must create an account.
+# Assumptions
+## Users must create an account.
 As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost devious from the consumer viewpoint.
 
-# Application design must be same as the responsive web design.
+## Application design must be same as the responsive web design.
 Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
 For mobile devices, consumers anticipate certain interaction patterns and elements of the graphical user interface.
 
-# Symbols can be easily understand by the users.
+## Symbols can be easily understand by the users.
 Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in communicating the action that we wish the users to accomplish. 
 
