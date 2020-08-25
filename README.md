@@ -50,44 +50,44 @@ The hunt master specifies the start date time and end time for the competion.
 ### CompetitionTeam 
 This entity is also an associative entity that map teams and competitions.It consists of 3 attributes:Competion ID,Team Number,Team score that stores the scores of different team members.
 
-### JIRA Link to Project
+## JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
 
-### JIRA Sprint 1
-
-
+## JIRA Sprint 1
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG)
 
 ## Sample Data of Each Entity in Excel 
 [Excel Link](Sample_Data.xlsx)
 
-# Risks and Assumptions
-# Risks
-## Risk of Application based security break
+## Risks and Assumptions
+
+### Risk of Application based security break
 Mobile security threats include everything from mobile forms of malware and spyware to the potential for unauthorized access to a device’s data, particularly in the case of accidental loss or theft of the device.
 
-## Risk of location access
+### Risk of location access
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 
-## Risk in the Operating System and data retrieval
+### Risk in the Operating System and data retrieval
 Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
 
-## Risk of poor authorization and authentication
+### Risk of poor authorization and authentication
 Weak authentication and authorization allows an dispute to access the mobile device, or it is anonymous backend.
 
 
-# Assumptions
-## Users must create an account
+## Assumptions
+### Users must create an account
 As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost skillful from the consumer view point.
 
-## Application design must be same as the responsive web design
+### Application design must be same as the responsive web design
 Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
 For mobile devices, consumers anticipate certain interaction patterns and elements of the graphical user interface.
 
-## Symbols can be easily understand by the users
+### Symbols can be easily understand by the users
 Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in communicating the action that we wish the users to accomplish. 
-## Schedule Management:
 
-# Risk of location access.
+### Schedule Management:
+
+## Risk of location access.
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 | Names | Roles | Week-1 | Week-2 | week-3 | week-4 | week-5 | week-6 | Nunber Of hours In Class | Number Of Hours OutSide Class | Total Number Of Hours |
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|--------|--------|--------|
