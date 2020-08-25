@@ -47,10 +47,10 @@ Thinking out of the box.
 
 # Risks and Assumptions
 # Risks
-## Risk of Application based security break.
+## Risk of Application based security break
 Mobile security threats include everything from mobile forms of malware and spyware to the potential for unauthorized access to a device’s data, particularly in the case of accidental loss or theft of the device.
 
-## Risk of location access.
+## Risk of location access
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 
 ## Risk in the Operating System and data retrieval.
