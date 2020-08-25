@@ -53,15 +53,15 @@ Mobile security threats include everything from mobile forms of malware and spyw
 ## Risk of location access
 The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 
-## Risk in the Operating System and data retrieval.
+## Risk in the Operating System and data retrieval
 Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
 
-## Risk of poor authorization and authentication.
+## Risk of poor authorization and authentication
 Weak authentication and authorization allows an adversary to access the mobile device, or it is anonymous backend.
 
 
 # Assumptions
-## Users must create an account.
+## Users must create an account
 As a developer, locking out users is much simpler until an entry in the user database has been solidified. But that's almost skillful from the consumer view point.
 
 ## Application design must be same as the responsive web design.
