@@ -64,6 +64,9 @@ provide a quest name.
 
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG)
 
+### JIRA Sprint 2
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG)
+
 ### Application UI
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG)
 ![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG)
