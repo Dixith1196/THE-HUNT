@@ -124,7 +124,7 @@ The process of poor coding and insecure handling of location data may cause the 
 |-----------------------|------|-------|--------|---------|----------|--------------|---------|--------|--------|--------|
 |1. Harika Kulkarni | Admin | 3.5hrs| 5.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
 |2. Prudhvi Naskanti | Developer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
-|3. Dixith Maram | UI Designer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
+|3. Dixith Maram | Developer | 4hrs | 3.5hrs | 4.5hrs | 4.5hrs | 4.5hrs| 4.5hrs | 4.5hrs | 7.5hrs | 12hrs |
 |4. Bhaskar Reddy Minupuri | Developer | 5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 9.5hrs | 14hrs |
 |5. Sai Rohith Gorla  | UI Designer | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
 |6. Ravi Chander Reddy Goli  | Tester | 4.5hrs | 4.5hrs | 4hrs | 4.5hrs | 4.5hrs | 4.5hrs | 4.5hrs | 8.5hrs | 13hrs |
@@ -133,12 +133,16 @@ The process of poor coding and insecure handling of location data may cause the 
 |-----------------------|------|-------|--------|---------|----------|
 |1. Harika Kulkarni | Admin | 4 | 6 | $80/hr | $1920 |
 |2. Prudhvi Naskanti  | Developer | 3.5 | 6 | $70/hr | $1470 |
-|3. Dixith Maram | UI Designer | 4 | 6 | $70/hr | $1680 |
+|3. Dixith Maram | Developer | 4 | 6 | $70/hr | $1680 |
 |4. Bhaskar Reddy Minupuri |Developer| 4 | 6 | $70/hr | $1680 |
 |5. Sai Rohith Gorla | UI Designer | 3.5 | 6 | $70/hr | $1470 |
 |6. Ravi Chander Goli | Tester | 3.5 | 6 | $70/hr | $1470 |
 
 Overall Cost estimation to develop this application - $9690
+
+## DEVELOPERS
+* Our project requires around six developers in bulding the progressive web App.
+
 
 
 
