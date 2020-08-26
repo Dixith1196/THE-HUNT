@@ -25,34 +25,34 @@ We would like to create an app that can be played on a mobile device. The app wo
 
 
 ## Entity Relationship Diagram
-![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram.png?raw=true)
+![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram%20(4).png?raw=true)
 
 ### User Entity
 * The User entity has 4 attributes namely:Username,Email,Password,Date last accessed.It stores the username,email,password and last accessed of the user.
 * A single User may be into one team or multiple teams.User may create and manage a team or join a team and particpate in the quest.
 
 ### Team entity
-* Team entity has 6 attributes namely:Team number,Team name,creator,Date created,Date last edited,Username of the team members.
+* Team entity has 7 attributes namely:Team number,Team name,creator,Date created,Date last edited,Time spent in competition,Username of the team members.
 * The user serves as captain of any team they create and he provides the team name.
 
 ### Player Entity
-* This entity has two attributes:Player nickname and score of the player.A single user can play with different nicknames and score accordingly.
+* This entity has 4 attributes:Player nickname,Player score,time spent,Username of the player.A single user can play with different nicknames and score accordingly.
 
 ### TeamPlayer Entity
 * TeamPlayer entity is an associative entity that maps between Team and Player.
 * It contains attributes DateInvited,Date accpeted Invite,date rejectedInvite and Dateleft team.
 * The captain provides a list of emails of invited members.A user can accept the team invite and become a team player or reject it.
-* After three days, if not accepted, assume rejection.
+* After three days, if not accepted,it is assumed as rejection.
 
 ### Quest Entity
 * This entity has 4 attributes.Quest name,Designer of the quest,Date created and date last accessed.The user serves as designer of any quest they create and they 
 provide a quest name.
 
 ### QuestLocation mapping
-* This entity consists of 2 attributes.Quest name and Location number.
+* This entity consists of 2 attributes.Quest name and Locations.
 
 ### Location Entity
-* This entity consists of Location number,Location clue and Location coordinates.The designer provides a list of locations for the quest.
+* This entity consists of Locations,Location clue and Location coordinates.The designer provides a list of locations for the quest.
 
 ### Competition Entity
 * This entity consists of CompetitionID,Competion name,creator,date created,start time and endtime of the competition.The user serves as the hunt master of the competion.
