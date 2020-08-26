@@ -171,6 +171,8 @@ The process of poor coding and insecure handling of location data may cause the 
 
 Overall Cost estimation to develop this application - $9690
 
+[Cost Estimation](costestimation.png)
+
 ## DEVELOPERS
 * Our project requires around six developers in bulding the progressive web App.
 
