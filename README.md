@@ -61,6 +61,15 @@ provide a quest name.
 ### CompetitionTeam 
 * This entity is also an associative entity that map teams and competitions.It consists of 3 attributes:Competion ID,Team Number,Team score that stores the scores of different team members.
 
+## User Stories
+
+* User can create a quest in create quest module.
+* User can manage his team in user profile module.
+* In Leader-Board module, Statistics of the team will be displayed.
+* In map module, navigation of the team will be displayed using their GPS tracking system.
+* User can register in Sign-up module.
+* User can login in login module.
+
 ### JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
 
