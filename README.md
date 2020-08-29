@@ -49,7 +49,7 @@ We would like to create an app that can be played on a mobile device. The app wo
 provide a quest name.
 
 ### QuestLocation mapping
-* This entity consists of 2 attributes.Quest name and Locations.
+* This entity consists of 2 attributes.Quest name and Location.
 
 ### Location Entity
 * This entity consists of Locations,Location clue and Location coordinates.The designer provides a list of locations for the quest.
