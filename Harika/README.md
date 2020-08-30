@@ -8,6 +8,7 @@ The primary goal of this project is to encourage outside activity,to support tea
 * 26 August 2020-Wednesday-Zoom
 
 ## Half day 1:
+On day1,below are the tasks performed by me:
 1. Discussed about the project.
 2. Divided the tasks among the team members.
 3. Understanding the requirements(RFP)of the project.
@@ -22,6 +23,7 @@ The primary goal of this project is to encourage outside activity,to support tea
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/52b9298161ff787d4f748a6903d508e80d6496a4)
 
 ## Half day 2:
+On day2,below are the tasks performed by me:
 1. Developed acceptance criteria for the project.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/43a29c4008e09b278a602ff54a95a482f13d8ab8)
@@ -38,6 +40,7 @@ The primary goal of this project is to encourage outside activity,to support tea
     [Github link](https://github.com/Dixith1196/THE-HUNT/commit/61bc86ee1cb2c4e919322d5d0c55ef435ece5d76)
 
 ## Half day 3:
+On day3,below are the tasks performed by me:
 1. Scheduled a meeting with the client on 2nd September,8.25AM to discuss the project charter.
 2. Sent invitations to the Client and team members.
 ![Client Invitation](https://github.com/Dixith1196/THE-HUNT/blob/master/Email%20invitation.PNG?raw=true)
