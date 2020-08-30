@@ -36,4 +36,5 @@ The primary goal of this project is to encourage outside activity,to support tea
 ## Half day 3:
 1. Scheduled a meeting with the client on 2nd September,8.25AM to discuss the project charter.
 2. Sent invitations to the Client and team members.
+![Client Invitation](https://github.com/Dixith1196/THE-HUNT/blob/master/Email%20invitation.PNG?raw=true)
 
