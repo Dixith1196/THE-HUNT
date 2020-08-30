@@ -160,7 +160,6 @@ provide a quest name.
 
 ## Reference
 [Google](https://www.google.com/)
-[Pinterest](https://www.pinterest.com/)
 
 ## DEVELOPERS
 * Our project requires around six developers in bulding the progressive web App
