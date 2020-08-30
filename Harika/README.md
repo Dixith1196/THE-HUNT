@@ -24,11 +24,11 @@ On day1,below are the tasks performed by me:
 
 ## Half day 2:
 On day2,below are the tasks performed by me:
-1. Developed acceptance criteria for the project.
+1. I Developed acceptance criteria for the project by going throwing all the requirements.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/43a29c4008e09b278a602ff54a95a482f13d8ab8)
   
-2. Made some more modifications to the ER diagrams.
+2. I made some more modifications to the ER diagrams after discussing with the team members.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/70cca190daeb000936fd5aa1fd79d96cabcd2fe6)
   
@@ -40,7 +40,7 @@ On day2,below are the tasks performed by me:
     
     [Github link](https://github.com/Dixith1196/THE-HUNT/commit/61bc86ee1cb2c4e919322d5d0c55ef435ece5d76)
     
-5. Made modifications to the ER diagram descriptions.
+5. I made modifications to the ER diagram descriptions as I have updated ER diagram.
 
     [Github link](https://github.com/Dixith1196/THE-HUNT/commit/70cca190daeb000936fd5aa1fd79d96cabcd2fe6)
 
