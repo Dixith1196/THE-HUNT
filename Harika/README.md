@@ -13,11 +13,11 @@ The primary goal of this project is to encourage outside activity,to support tea
 3. Understanding the requirements(RFP)of the project.
 4. Clarifying the doubts by collaborating with team members.
 5. Discussed about the technologies to be used in the project.
-5. Developed ER diagrams and relationships among the entities.
+6. Developed ER diagrams and relationships among the entities.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/11cfaaa622335c406ba8d1059c96b0835815f736)
   
-6. Developed content describing the ER diagrams and relationships among them.
+7. Developed content describing the ER diagrams and relationships among them.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/52b9298161ff787d4f748a6903d508e80d6496a4)
 
@@ -33,9 +33,14 @@ The primary goal of this project is to encourage outside activity,to support tea
 3. Assigned tasks in Jira to the team members.
 
     [Jira link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&view=planning&selectedIssue=HUN-18&issueLimit=100)
+4. Assigned roles in each team member in Github.
+    
+    [Github link](https://github.com/Dixith1196/THE-HUNT/commit/61bc86ee1cb2c4e919322d5d0c55ef435ece5d76)
 
 ## Half day 3:
 1. Scheduled a meeting with the client on 2nd September,8.25AM to discuss the project charter.
 2. Sent invitations to the Client and team members.
 ![Client Invitation](https://github.com/Dixith1196/THE-HUNT/blob/master/Email%20invitation.PNG?raw=true)
+
+3. Collaborated with the client regarding the deadlines.
 
