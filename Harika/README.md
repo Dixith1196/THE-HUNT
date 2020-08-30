@@ -16,10 +16,10 @@ The primary goal of this project is to encourage outside activity,to support tea
 6. Developed content describing the ER diagrams and relationships among them.
 
 ## Half day 2:
-1.Developed acceptance criteria for the project.
-2.Made some more modifications to the ER diagrams.
-3.Assigned tasks in Jira
+1. Developed acceptance criteria for the project.
+2. Made some more modifications to the ER diagrams.
+3. Assigned tasks in Jira
 
 ## Half day 3:
-1.Scheduled a meeting with the client on 2nd September,8.25AM to discuss the project charter.
-2.Sent invitations to the Clients and team members.
+1. Scheduled a meeting with the client on 2nd September,8.25AM to discuss the project charter.
+2. Sent invitations to the Clients and team members.
