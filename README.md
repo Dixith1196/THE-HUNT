@@ -143,15 +143,11 @@ provide a quest name.
 20. The User should be able to install/uninstall the app at any point of time.
 
 ## Technologies to be used
-HTML: It is used to design webpages.
-CSS: It is used to describe how these HTML elements are displayed on the screen.
-JS:it is used to describe the behavoiur of the webpage
-node JS: Node.Js is a server, which makes our app available to HTTP requests.
-Github: Github is a remote repository where we can store our code
-
-
-
-
+* HTML: It is used to design webpages.
+* CSS: It is used to describe how these HTML elements are displayed on the screen.
+* JS: It is used to describe the behavoiur of the webpage
+* Node JS: Node.Js is a server, which makes our app available to HTTP requests.
+* Github: Github is a remote repository where we can store our code
 
 
 ## Schedule Management:
