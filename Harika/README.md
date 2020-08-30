@@ -33,7 +33,7 @@ The primary goal of this project is to encourage outside activity,to support tea
 3. Assigned tasks in Jira to the team members.
 
     [Jira link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&view=planning&selectedIssue=HUN-18&issueLimit=100)
-4. Assigned roles in each team member in Github.
+4. Assigned roles to each team member in Github.
     
     [Github link](https://github.com/Dixith1196/THE-HUNT/commit/61bc86ee1cb2c4e919322d5d0c55ef435ece5d76)
 
