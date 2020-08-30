@@ -18,10 +18,10 @@
 - Researched and compared various levels of risks that are involved in it.
 
 ## Repo Links
-(https://github.com/Dixith1196/THE-HUNT/commit/2ba31160ef124ca8ed8582342df7695bef07ba5b)
-(https://github.com/Dixith1196/THE-HUNT/commit/14a804413dcd386cbd0b7874e60436676cc996cb)
-(https://github.com/Dixith1196/THE-HUNT/commit/81a5840805be47179bcdac82d2e1819c06dc6074)
-(https://github.com/Dixith1196/THE-HUNT/commit/1e34447217b549b58b87538982c9dfca79384c15)
+-[1](https://github.com/Dixith1196/THE-HUNT/commit/2ba31160ef124ca8ed8582342df7695bef07ba5b)
+-[2](https://github.com/Dixith1196/THE-HUNT/commit/14a804413dcd386cbd0b7874e60436676cc996cb)
+-[3](https://github.com/Dixith1196/THE-HUNT/commit/81a5840805be47179bcdac82d2e1819c06dc6074)
+-[4](https://github.com/Dixith1196/THE-HUNT/commit/1e34447217b549b58b87538982c9dfca79384c15)
 
 ## Half day 3
 ## Description
@@ -30,13 +30,13 @@
 - Depicted the references that are used and updated it.
 - I have implemented the Project Budget and created the cost estimation in Jira and updated it.
 
-## Links
-"https://github.com/Dixith1196/THE-HUNT/commit/34242fd5245d41c47a25ea617678df92ba2b016b"
-"https://github.com/Dixith1196/THE-HUNT/commit/cd989a607dbfbdde7a29459c2da86a2a40d921c5"
-"https://github.com/Dixith1196/THE-HUNT/commit/9a6f99d3900e2437f75f887b2cb0b7570613b660"
-"https://github.com/Dixith1196/THE-HUNT/commit/a8aec4af966b0edc89ca17ee4781f23874eae211"
+## Repo Links
+-[1](https://github.com/Dixith1196/THE-HUNT/commit/34242fd5245d41c47a25ea617678df92ba2b016b)
+-[2](https://github.com/Dixith1196/THE-HUNT/commit/cd989a607dbfbdde7a29459c2da86a2a40d921c5)
+-[3](https://github.com/Dixith1196/THE-HUNT/commit/9a6f99d3900e2437f75f887b2cb0b7570613b660)
+-[4](https://github.com/Dixith1196/THE-HUNT/commit/a8aec4af966b0edc89ca17ee4781f23874eae211)
 ## Jira link
-"https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&modal=detail&selectedIssue=HUN-12"
+-[Jira](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&modal=detail&selectedIssue=HUN-12)
 
 
 
