@@ -29,7 +29,7 @@ The primary goal of this project is to encourage outside activity,to support tea
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/70cca190daeb000936fd5aa1fd79d96cabcd2fe6)
   
-3.Assigned tasks in Jira  
+3. Assigned tasks in Jira.
 
     [Jira link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&view=planning&selectedIssue=HUN-18&issueLimit=100)
 
