@@ -159,8 +159,8 @@ provide a quest name.
 ![Cost Estimation](https://github.com/Dixith1196/THE-HUNT/blob/master/costestimation.png)
 
 ## Reference
-[Google](https://www.google.com/)
-[Dribble](https://dribbble.com/) - for UI design reference
+* [Google](https://www.google.com/)
+* [Dribble](https://dribbble.com/) - for UI design reference
 
 ## DEVELOPERS
 * Our project requires around six developers in bulding the progressive web App
