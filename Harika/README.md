@@ -43,4 +43,5 @@ The primary goal of this project is to encourage outside activity,to support tea
 ![Client Invitation](https://github.com/Dixith1196/THE-HUNT/blob/master/Email%20invitation.PNG?raw=true)
 
 3. Collaborated with the client regarding the deadlines.
+![Client collaboration](https://github.com/Dixith1196/THE-HUNT/blob/master/Client%20collaboration.PNG?raw=true)
 
