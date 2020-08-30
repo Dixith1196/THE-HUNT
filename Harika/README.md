@@ -12,6 +12,7 @@ The primary goal of this project is to encourage outside activity,to support tea
 2. Divided the tasks among the team members.
 3. Understanding the requirements(RFP)of the project.
 4. Clarifying the doubts by collaborating with team members.
+5. Discussed about the technologies to be used in the project.
 5. Developed ER diagrams and relationships among the entities.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/11cfaaa622335c406ba8d1059c96b0835815f736)
