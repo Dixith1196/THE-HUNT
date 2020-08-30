@@ -9,10 +9,10 @@ The primary goal of this project is to encourage outside activity,to support tea
 
 ## Half day 1:
 1. Discussed about the project.
-2. Divinding the tasks among the team members.
-3. Understanding the requirements(RFP)
-4. Clarifying the doubts with team members.
-5. Developed ER diagrams 
+2. Divided the tasks among the team members.
+3. Understanding the requirements(RFP)of the project.
+4. Clarifying the doubts by collaborating with team members.
+5. Developed ER diagrams and relationships among the entities.
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/11cfaaa622335c406ba8d1059c96b0835815f736)
   
@@ -29,7 +29,7 @@ The primary goal of this project is to encourage outside activity,to support tea
 
     [Github commit link](https://github.com/Dixith1196/THE-HUNT/commit/70cca190daeb000936fd5aa1fd79d96cabcd2fe6)
   
-3. Assigned tasks in Jira.
+3. Assigned tasks in Jira to the team members.
 
     [Jira link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN&view=planning&selectedIssue=HUN-18&issueLimit=100)
 
