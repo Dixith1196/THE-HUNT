@@ -5,7 +5,7 @@
 
 ## Half day 1
 ## Description
-2. On the First half day I have accepted the repo link that was sent and collaborated with my team members. I have worked for 4 hrs.
+2. On the First half day we have created a GIT repo and accepted the repo link that was sent and collaborated with my team members. I have worked for 4 hrs.
 - We have created a meeting and discussed about the project and assigned the tasks for each member.
 - We have also discussed the tools that are used to develop our application.
 - We have discussed the deadlines that are to be finished for each tasks in Module 1.
