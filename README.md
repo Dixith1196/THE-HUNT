@@ -73,11 +73,11 @@ provide a quest name.
 ### JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
 
-### JIRA Sprint 1
+### JIRA Sprint-1
 
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG?raw=true)
 
-### JIRA Sprint 2
+### JIRA Sprint-2
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG?raw=true)
 
 ### Application UI
