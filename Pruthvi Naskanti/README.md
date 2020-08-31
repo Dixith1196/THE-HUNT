@@ -2,6 +2,7 @@
 
 ## Attendance:
 - I have attended GDP1 in-person classes on 19th and 24th of August where i got to know basic requirements and work-flow of the project.
+- Also attended ZOOM sessions on 26th nd 28th of August to keep up with any updates.
 
 ## Half-Day 1
 2. On the first half-day, i have worked on co-ordinating with team members and arranging meeting where we have discussed on Task Scheduling and Overview of the project. Later on, we have created a GITHUB repository and invited collaborators to the public repository.
