@@ -8,9 +8,10 @@
 - August-26-Wednesday(Zoom)
 - August-28-Friday(Zoom)
 # 4 hours of Day 1: 
--On day1 I was introduced to the fundamentals of the  Graduate direct project. And then collaborated with my team members and discussed about budget, and tasks that each individual team member should perform. and then one of my teammate crated a central repositaory and invited me as collaborator and i have accepted the invitation.
+- On day1 I was introduced to the fundamentals of the  Graduate direct project. And then collaborated with my team members and discussed about budget, and tasks that each  individual team member should perform. and then one of my teammate crated a central repositaory and invited me as collaborator and i have accepted the invitation.
 - I have copied the readme file to my local system and added the Benefits of playing the Treasure Hunt.[commit](https://github.com/Dixith1196/THE-HUNT/commit/5b30ce4441eb9c4be65f8cb797d6e8349b77e384).
 - I also worked on the schedule management and made some rough estimation of the working hours on the project and made a commit to the repo. [commit](https://github.com/Dixith1196/THE-HUNT/commit/28ac07f437ca5fb8fee8af269273156220d40dc7)
+- we have also conducted a meeting at library to discuss about the on-going works assigned to each individual. 
 
 # 4 hours of Day2:
 - On discussing with the teammates about the working hours on the project. i have updated the schedule management on the readme file and commited the changes to the repo. [commit](https://github.com/Dixith1196/THE-HUNT/commit/a6c4e9b1b9fe7e11bdbb6d0bf49603e806a6a8be)
