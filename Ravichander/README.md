@@ -18,6 +18,7 @@
 3. On the Second half day I have worked for 4 hrs and implemented the risks that are involved of doing this project.
 - I have discussed with the group about the risks on developing this app.
 - Researched and compared various levels of risks that are involved in it.
+- I have discussed with the team members about the risks that are possible while doing the tasks and updated it.
 
 ## Repo Links
 -(https://github.com/Dixith1196/THE-HUNT/commit/2ba31160ef124ca8ed8582342df7695bef07ba5b)
