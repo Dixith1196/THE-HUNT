@@ -15,7 +15,8 @@
 
 ## Half day 2
 ## Description
-3. On the Second half day I have worked for 4 hrs and implemented the risks that are involved of doing this project.
+3. On the Second half day I have worked for 4 hrs, the role assigned is to identify the Risks and Assumptions of our Application.
+- I have implemented the risks that are involved of doing this project.
 - I have discussed with the group about the risks on developing this app.
 - Researched and compared various levels of risks that are involved in it.
 - I have discussed with the team members about the risks that are possible while doing the tasks and updated it.
