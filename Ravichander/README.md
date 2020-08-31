@@ -1,7 +1,7 @@
 # My Tasks
 
 ## Attendance
-1. I have attended GDP in person class on 19th and 24th of this month where I came through the basic overview of the project.Its worth 200 points.
+1. I have attended GDP in person class on 19th and 24th of this month where I came through the basic overview of the project. Its worth 200 points.
 
 ## Half day 1
 ## Description
