@@ -4,9 +4,10 @@
 - I have attended GDP1 in-person classes on 19th and 24th of August where i got to know basic requirements and work-flow of the project.
 
 ## Half-Day 1
-2. On the first half-day, i have worked on co-ordinating with team members and arranging meeting where we have discussed on Task Scheduling and Overview of the project. Later on, 
-we have created a GITHUB repository and invited collaborators to the public repository.
-- [Basic Idea](https://github.com/Dixith1196/THE-HUNT/commit/9d0769e0c167a3dbeacf0145898c1b8bf3fd4012)
+2. On the first half-day, i have worked on co-ordinating with team members and arranging meeting where we have discussed on Task Scheduling and Overview of the project. Later on, we have created a GITHUB repository and invited collaborators to the public repository.
+
+- https://github.com/Dixith1196/THE-HUNT/commit/9d0769e0c167a3dbeacf0145898c1b8bf3fd4012 - Commit for Statment Of Purpose
+
 
 Topics discussed in meeting:
 
@@ -24,8 +25,11 @@ Topics discussed in meeting:
 
 3. On second half-day, i have created a jira account and worked on creating Sprint-1, added user Stories and assigned members to the user tasks. I have also added screen-shots
 of Sprint-1 and Srint-2 to README.md file.
-- [JIRA](https://github.com/Dixith1196/THE-HUNT/commit/c60e7e649b2c3bea0ff66184387cf7d143880045)
-- [JIRA Screenshots](https://github.com/Dixith1196/THE-HUNT/commit/0832c400d08f7fc65c8dc9a1ca8da2cc39427fc8)
+
+Below are the commits of creating and adding JIRA tasks:
+
+- https://github.com/Dixith1196/THE-HUNT/commit/c60e7e649b2c3bea0ff66184387cf7d143880045 - JIRA Sprint1
+- https://github.com/Dixith1196/THE-HUNT/commit/0832c400d08f7fc65c8dc9a1ca8da2cc39427fc8 - JIRA Sprint2
 
 
 ## Half-Day 3
@@ -33,9 +37,11 @@ of Sprint-1 and Srint-2 to README.md file.
 4. On third half-day, i worked on adding benefits of using this application. Later, made few changes in Cost Management, Schedule Management and discussed with the respective 
 assciate working on that tasks. Also added few changes such as References, changing headinds on README
 
-- [Benefits](https://github.com/Dixith1196/THE-HUNT/commit/b4b7ce5ecc223c35385680a0818e2332e4d14717)
-- [Reference](https://github.com/Dixith1196/THE-HUNT/commit/322fc6385f0e233afc7d585457345d0068ebdc58)
-- [Schedule Approximation](https://github.com/Dixith1196/THE-HUNT/blob/master/Schedule%20Approximation.PNG?raw=true)
+Below are the commits of making changes on Benefits and Schedule Estimation.
+
+- https://github.com/Dixith1196/THE-HUNT/commit/b4b7ce5ecc223c35385680a0818e2332e4d14717 - Benefits
+- https://github.com/Dixith1196/THE-HUNT/commit/322fc6385f0e233afc7d585457345d0068ebdc58 - Reference
+- https://github.com/Dixith1196/THE-HUNT/blob/master/Schedule%20Approximation.PNG?raw=true - Schedule Approximation
 
 
 
