@@ -30,7 +30,7 @@ On day2,below are the tasks performed by me:
     
 5. I made modifications to the ER diagram descriptions as I have updated ER diagram.[Github link](https://github.com/Dixith1196/THE-HUNT/commit/70cca190daeb000936fd5aa1fd79d96cabcd2fe6)
 
-6. Reviewed the feedback given by the professor and working on it[Feedback link](https://nwmissouri.instructure.com/courses/32360/assignments/415542)
+6. Reviewed the feedback given by the professor[Feedback link](https://nwmissouri.instructure.com/courses/32360/assignments/415542)
 
 ## Half day 3:
 On day3,below are the tasks performed by me:
