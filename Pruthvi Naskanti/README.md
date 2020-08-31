@@ -35,6 +35,7 @@ assciate working on that tasks. Also added few changes such as References, chang
 
 - [Benefits](https://github.com/Dixith1196/THE-HUNT/commit/b4b7ce5ecc223c35385680a0818e2332e4d14717)
 - [Reference](https://github.com/Dixith1196/THE-HUNT/commit/322fc6385f0e233afc7d585457345d0068ebdc58)
+- [Schedule Approximation](https://github.com/Dixith1196/THE-HUNT/blob/master/Schedule%20Approximation.PNG?raw=true)
 
 
 
