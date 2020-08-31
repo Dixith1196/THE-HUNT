@@ -1,11 +1,11 @@
 # My Tasks
 
 ## Attendance
-1. I have attended GDP in person class on 19th and 24th of this month where I came through the basic overview of the project.
+1. I have attended GDP in person class on 19th and 24th of this month where I came through the basic overview of the project.Its worth 200 points.
 
 ## Half day 1
 ## Description
-2. On the First half day we have created a GIT repo and accepted the repo link that was sent and collaborated with my team members. I have worked for 4 hrs.
+2. On the First half day we have created a GIT repo and accepted the repo link that was sent and collaborated with my team members. I have worked for 4 hrs. Its worth 300 points.
 - We have created a meeting and discussed about the project and assigned the tasks for each member.
 - We have also discussed the tools that are used to develop our application.
 - We have discussed the deadlines that are to be finished for each tasks in Module 1.
@@ -15,7 +15,7 @@
 
 ## Half day 2
 ## Description
-3. On the Second half day I have worked for 4 hrs, the role assigned is to identify the Risks and Assumptions of our Application.
+3. On the Second half day I have worked for 4 hrs, its worth 300 points. The role assigned is to identify the Risks and Assumptions of our Application.
 - I have implemented the risks that are involved of doing this project.
 - I have discussed with the group about the risks on developing this app.
 - Researched and compared various levels of risks that are involved in it.
@@ -32,7 +32,7 @@
 
 ## Half day 3
 ## Description
-4. On the Third half day I have worked for 4 hrs and gathered the assumptions that are required in creating this app.
+4. On the Third half day I have worked for 4 hrs, its worth 300 points. I gathered the assumptions that are required in creating this app.
 - I have discussed with my group and implemented the required assumptions.
 - Depicted the references that are used and updated it.
 - I have implemented the Project Budget and created the cost estimation on Jira in Sprint 1 and updated it.
