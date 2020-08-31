@@ -12,13 +12,16 @@
 Topics discussed in meeting:
 
   1. Who is going to handle which task of the project?
+  
   Ans: We had a discussion among ourselves and decided who will takeover which module of project such as UI Development, Database Administration, Backend Configuration, Team       Lead Activities, Application Deployment.
   
   2. What are the deadlines discussed corresponding to module 1?
+  
   Ans: We have had discussion regarding deadlines of the tasks that are to be completed within time and everyone of us voluntarily assigned specific time to complete their 
   particular tasks.
   
   3. What are the technologies used to develop the applicaton?
+  
   Ans: Each one of us shared their inputs on what technologies to be used. Later, after considering few factors such availability and feasibility we came to the conclusion od     what technologies to be used.
   
 ## Half-Day 2
