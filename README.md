@@ -122,25 +122,23 @@ provide a quest name.
 ## Acceptance Criteria:
 
 1. The App should work on all devices like iPhone SE, Android device, laptop, computer, iPad.
-2. The App should work on all devices in various orientations 
-3. The App should be user friendly.
-4. The App should be secured by loading various SSH keys and by using cryptographic techniques.
-5. The User private or any sensitive data should be fully encrypted 
-6. The User should signup in order to access the app
-7. The User has to provide all the required details inorder to register.
-8. The User should be able to create teams.(Captain)
-9. The Caption should be able to send invites.
-10. The User should be able to accept or reject the invitation.
-11. The user should be able to create Quests.(Designer)
-12. The designer should be able to provide list of locations for the quest and and provide location number.
-13. The User should be able to launch a competition (hunt master).
-14. The Hunt master should be able to provide start date, time and end data, time for the competition.
-15. The Hunt master may choose the existing quest for the competition.
-16. The app should provide visible and audible feedback for the player when the active location is encountered.
-17. The app should provide visible and audible feedback for the player when the active quest is completed.
-18. The Use should be able to accept or reject the call when the application is running.
-19. The app should not consume battery excessively.
-20. The User should be able to install/uninstall the app at any point of time.
+2. The User should signup in order to access the app
+3. The User has to provide all the required details inorder to register.
+4. The User should be able to create teams.(Captain)
+5. The Caption should be able to send invites.
+6. The User should be able to accept or reject the invitation.
+7. The user should be able to create Quests.(Designer)
+8. The designer should be able to provide list of locations for the quest and and provide location number.
+9. The User should be able to launch a competition (hunt master).
+10. The Hunt master should be able to provide start date, time and end data, time for the competition.
+11. The Hunt master may choose the existing quest for the competition.
+12. The app should provide visible and audible feedback for the player when the active location is encountered.
+13. The app should provide visible and audible feedback for the player when the active quest is completed.
+14. The Use should be able to accept or reject the call when the application is running.
+15. The User should be able to install/uninstall the app at any point of time.
+17. The App should work on all devices in various orientations 
+18. The App should be secured by loading various SSH keys and by using cryptographic techniques.
+
 
 ## Technologies to be used
 * HTML: It is used to design webpages.
