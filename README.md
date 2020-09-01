@@ -25,14 +25,14 @@ We would like to create an app that can be played on a mobile device. The app wo
 
 
 ## Entity Relationship Diagram
-![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram%20(4).png?raw=true)
+![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram_updated.png?raw=true)
 
 ### User Entity
 * The User entity has 4 attributes namely:Username,Email,Password,Date last accessed.It stores the username,email,password and last accessed of the user.
 * A single User may be into one team or multiple teams.User may create and manage a team or join a team and particpate in the quest.
 
 ### Team entity
-* Team entity has 7 attributes namely:Team number,Team name,creator,Date created,Date last edited,Time spent in competition,Username of the team members.
+* Team entity has 7 attributes namely:Team name,creator,Date created,Date last edited,Time spent in competition,Username of the team members.
 * The user serves as captain of any team they create and he provides the team name.
 
 ### Player Entity
