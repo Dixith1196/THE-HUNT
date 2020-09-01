@@ -107,10 +107,7 @@ provide a quest name.
 
 ## Risk in the Operating System and data retrieval
 * Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
-
-## Risk of poor authorization and authentication
-* Weak authentication and authorization allows an dispute to access the mobile device, or it is anonymous backend.
-
+* Risks in creating or managing the teams.
 
 # Assumptions
 ## Users must create an account
