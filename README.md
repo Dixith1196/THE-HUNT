@@ -80,6 +80,10 @@ provide a quest name.
 ### JIRA Sprint-2
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG?raw=true)
 
+### JIRA Sprint Progress
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1H1.PNG?raw=true)
+
+
 ### Application UI
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
 ![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
