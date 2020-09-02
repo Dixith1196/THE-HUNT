@@ -138,7 +138,7 @@ provide a quest name.
 18. The App should be secured by loading various SSH keys and by using cryptographic techniques.
 
 
-## Technologies to be used
+## Technologies to be used:
 * HTML: It is used to design webpages.
 * CSS: It is used to describe how these HTML elements are displayed on the screen.
 * JS: It is used to describe the behavoiur of the webpage
