@@ -120,7 +120,6 @@ provide a quest name.
 
 # Assumptions
 * Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
-* For mobile devices, consumers anticipate certain interaction patterns and elements of the graphical user interface.
 * Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in           communicating the action that we wish the users to accomplish. 
 * Bug fix effort for each screen will not exceed 20% of the development effort for same screen.
 
