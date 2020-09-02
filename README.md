@@ -68,13 +68,14 @@ provide a quest name.
 * User can login in login module.
 
 ## Roles
-|---|---|
-| Project Manager  | Ravi  |
-| DB Administrator | Harika Kulkarni |
-| Team Lead | Bhaskar |
-| UI Developer | Deekshith |
-| Backend Developer | Pruthvi |
-| Tester | Rohith |
+| Roles            | Names                |     
+| ---------------- | -------------------- | 
+| Project Manager  | Ravichander Reddy    |
+| DB Administrator | Harika Kulkarni      | 
+| Team Lead        | Bhaskar Reddy        | 
+| UI Developer     | Deekshith Maram      | 
+| Backend Developer| Pruthvi Naskanti     | 
+| Tester           | Sai Rohith           |
 
 ## JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
