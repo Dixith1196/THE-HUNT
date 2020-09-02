@@ -63,33 +63,43 @@ provide a quest name.
 * User can register in Sign-up module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User can login in login module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User can create a quest in create quest module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User can send invitation to other members.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * The User should be able to accept or reject the invitation.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User can manage his team in user profile module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * The User should be able to provide list of locations for the quest and and provide location number.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User can create competition.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * User should be able to provide start date, time and end data, time for the competition.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * In Leader-Board module, Statistics of the team will be displayed.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
+  
 * In map module, navigation of the team will be displayed using their GPS tracking system.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will take care of this task.
