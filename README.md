@@ -76,8 +76,8 @@ provide a quest name.
 | DB Administrator | Harika Kulkarni |
 | Team Lead | Bhaskar |
 | UI Developer | Deekshith |
-| Backend Developer | Pruthvi  |
-| Tester | Rohith |  
+| Backend Developer | Pruthvi |
+| Tester | Rohith |
 
 ### JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
