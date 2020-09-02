@@ -121,6 +121,7 @@ provide a quest name.
 # Assumptions
 * Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
 * Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in           communicating the action that we wish the users to accomplish. 
+* The project scope will not change once the stakeholders sign off on the scope statement
 * Bug fix effort for each screen will not exceed 20% of the development effort for same screen.
 
 ## Acceptance Criteria:
