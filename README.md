@@ -60,12 +60,15 @@ provide a quest name.
 * This entity is also an associative entity that map teams and competitions.It consists of 3 attributes:Competion ID,Team Number,Team score that stores the scores of different team members.
 
 ## User Stories
-* User can create a quest in create quest module.
-* User can manage his team in user profile module.
-* In Leader-Board module, Statistics of the team will be displayed.
-* In map module, navigation of the team will be displayed using their GPS tracking system.
 * User can register in Sign-up module.
 * User can login in login module.
+* User can create a quest in create quest module.
+* User can send invitation to other members.
+* User can manage his team in user profile module.
+* User can create competition.
+* In Leader-Board module, Statistics of the team will be displayed.
+* In map module, navigation of the team will be displayed using their GPS tracking system.
+
 
 ## Roles
 | Roles            | Names                |     
