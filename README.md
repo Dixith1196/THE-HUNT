@@ -70,6 +70,15 @@ provide a quest name.
 * User can register in Sign-up module.
 * User can login in login module.
 
+## Roles
+|---|---|
+| Project Manager  | Ravi  |
+| DB Administrator | Harika Kulkarni |
+| Team Lead | Bhaskar |
+| UI Developer | Deekshith |
+| Backend Developer | Pruthvi  |
+| Tester | Rohith |  
+
 ### JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
 
