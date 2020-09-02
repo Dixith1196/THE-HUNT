@@ -25,7 +25,7 @@ We would like to create an app that can be played on a mobile device. The app wo
 
 
 ## Entity Relationship Diagram
-![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram_updated.png?raw=true)
+![title](https://github.com/Dixith1196/THE-HUNT/blob/master/ER%20Diagram%20(6).png?raw=true)
 
 ### User Entity
 * The User entity has 4 attributes namely:Username,Email,Password,Date last accessed.It stores the username,email,password and last accessed of the user.
