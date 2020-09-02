@@ -152,7 +152,8 @@ provide a quest name.
 ![schedule management](https://github.com/Dixith1196/THE-HUNT/blob/master/Schedulemanagement.png)
 
 ## Cost Estimation
-![Cost Estimation](https://github.com/Dixith1196/THE-HUNT/blob/master/costestimation.png)
+![hourly Billing Rates](https://github.com/Dixith1196/THE-HUNT/blob/master/hourlybillingrate.png)
+![CostEstimation](https://github.com/Dixith1196/THE-HUNT/blob/master/cost%20estimation.PNG)
 
 ## Reference
 * [Google](https://www.google.com/)
