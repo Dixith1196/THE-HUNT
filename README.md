@@ -64,8 +64,11 @@ provide a quest name.
 * User can login in login module.
 * User can create a quest in create quest module.
 * User can send invitation to other members.
+* The User should be able to accept or reject the invitation.
 * User can manage his team in user profile module.
+* The User should be able to provide list of locations for the quest and and provide location number.
 * User can create competition.
+* User should be able to provide start date, time and end data, time for the competition.
 * In Leader-Board module, Statistics of the team will be displayed.
 * In map module, navigation of the team will be displayed using their GPS tracking system.
 
