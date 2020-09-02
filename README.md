@@ -1,6 +1,6 @@
 # THE-HUNT
 
-## Statement Of Pupose
+## Statement Of Purpose
 
 We would like to create a gaming application for NWMSU which works on iPhone SE, Android device, laptop and an iPad. The main motto behind this idea of creating a gaming application is to bring bearcats of diverse departments onto a common platform which helps students to interact, encourages students to unique and special parts of campus, contributes in developing an attitude towards teamwork.
 
@@ -30,11 +30,9 @@ We would like to create an app that can be played on a mobile device. The app wo
 #### User Entity
 * The User entity has 4 attributes namely:Username,Email,Password,Date last accessed.It stores the username,email,password and last accessed of the user.
 * A single User may be into one team or multiple teams.User may create and manage a team or join a team and particpate in the quest.
-
 #### Team entity
 * Team entity has 7 attributes namely:Team name,creator,Date created,Date last edited,Time spent in competition,Username of the team members.
 * The user serves as captain of any team they create and he provides the team name.
-
 #### Player Entity
 * This entity has 4 attributes:Player nickname,Player score,time spent,Username of the player.A single user can play with different nicknames and score accordingly.
 
@@ -62,7 +60,6 @@ provide a quest name.
 * This entity is also an associative entity that map teams and competitions.It consists of 3 attributes:Competion ID,Team Number,Team score that stores the scores of different team members.
 
 ## User Stories
-
 * User can create a quest in create quest module.
 * User can manage his team in user profile module.
 * In Leader-Board module, Statistics of the team will be displayed.
@@ -79,11 +76,10 @@ provide a quest name.
 | Backend Developer | Pruthvi |
 | Tester | Rohith |
 
-### JIRA Link to Project
+## JIRA Link to Project
 [JIRA Link](https://the-hunt.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HUN)
 
 ### JIRA Sprint-1
-
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG?raw=true)
 
 ### JIRA Sprint-2
@@ -106,19 +102,18 @@ provide a quest name.
 [Excel Link](Sample_Data.xlsx)
 
 ## Risks and Assumptions
-
-## Risks
-### Risk of Application based security break
+### Risks
+#### Risk of Application based security break
 * Mobile security threats include everything from mobile forms of malware and spyware to the potential for unauthorized access to a device’s data, particularly in the case of   accidental loss or theft of the device.
 
-### Risk of location access
+#### Risk of location access
 * The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
 
-### Risk in the Operating System and data retrieval
+#### Risk in the Operating System and data retrieval
 * Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
 * Risks in creating or managing the teams.
 
-## Assumptions
+### Assumptions
 * Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
 * Symbols are attractive and can be visually attractive to convey information. The results will help to analyze clearly which symbol can be considered most effective in           communicating the action that we wish the users to accomplish. 
 * The project scope will not change once the stakeholders sign off on the scope statement
@@ -144,7 +139,6 @@ provide a quest name.
 17. The App should work on all devices in various orientations 
 18. The App should be secured by loading various SSH keys and by using cryptographic techniques.
 
-
 ## Technologies to be used:
 * HTML: It is used to design webpages.
 * CSS: It is used to describe how these HTML elements are displayed on the screen.
@@ -153,9 +147,7 @@ provide a quest name.
 * Github: Github is a remote repository where we can store our code.
 * Heroku : To host our application.
 
-
 ## Schedule Management:
-
 ![schedule management](https://github.com/Dixith1196/THE-HUNT/blob/master/Schedulemanagement.png)
 
 ## Cost Estimation
