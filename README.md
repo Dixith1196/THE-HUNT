@@ -191,14 +191,18 @@ provide a quest name.
 3. The User has to provide all the required details inorder to register.
 4. The User should be able to create teams.(Captain)
 5. The Caption should be able to send invites.
-
+6. The User should be able to accept or reject the invitation.
+7. The user should be able to create Quests.(Designer)
 8. The designer should be able to provide list of locations for the quest and and provide location number.
 9. The User should be able to launch a competition (hunt master).
 10. The Hunt master should be able to provide start date, time and end data, time for the competition.
 11. The Hunt master may choose the existing quest for the competition.
-
-17. The App should work on all devices in various orientations 
-18. The App should be secured by loading various SSH keys and by using cryptographic techniques.
+12. The app should provide visible and audible feedback for the player when the active location is encountered.
+13. The app should provide visible and audible feedback for the player when the active quest is completed.
+14. The Use should be able to accept or reject the call when the application is running.
+15. The User should be able to install/uninstall the app at any point of time.
+16. The App should work on all devices in various orientations 
+17. The App should be secured by loading various SSH keys and by using cryptographic techniques.
 
 ## Technologies to be used:
 * HTML: It is used to design webpages.
