@@ -146,6 +146,7 @@ provide a quest name.
 ## Application UI
 ![Sign up](https://github.com/Dixith1196/THE-HUNT/blob/master/Signup.PNG?raw=true)
 ![Login page](https://github.com/Dixith1196/THE-HUNT/blob/master/loginPage.PNG?raw=true)
+![Home page](https://github.com/Dixith1196/THE-HUNT/blob/master/homePage.PNG)
 ![Leaderboard](https://github.com/Dixith1196/THE-HUNT/blob/master/Leader.PNG?raw=true)
 ![treasure_map](https://github.com/Dixith1196/THE-HUNT/blob/master/map.PNG)
 ![create_quest](https://github.com/Dixith1196/THE-HUNT/blob/master/createQuest.PNG?raw=true)
