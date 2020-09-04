@@ -115,9 +115,12 @@ provide a quest name.
 * Once user joins a quest and Clicks START, they will be redirected to NAVIGATION page.
 
 ## Leaderboard Screen:
-* Once a user completes their quest, they will be rewarded with points considering their TIME. Every group who completes the quest will be rewarded with points and positions will be assigned as per the time taken to complete the quest.
+* Once a user completes their quest, they will be rewarded with points considering their TIME. Every group who completes the quest will be rewarded with points and positions       will be assigned as per the time taken to complete the quest.
 * Team name with their position will be seen in Leaderboard.
 
+## Profile Tab
+
+* In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
 
 ## Roles
