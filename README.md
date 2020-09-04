@@ -103,6 +103,21 @@ provide a quest name.
 * In map module, navigation of the team will be displayed using their GPS tracking system.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+  
+## Sign-in Screen:
+* User will need to enter their sign-in credentials to login to the application.
+* If a user enters incorrect credentials, they should receive an error saying In-correct credentials.
+* If a user enters correct credentials, they should be redirected to HOME page.
+
+## Home Screen:
+* Home Screen consists of list of quests created by students using the application, a user can join in any of the quests.
+* Any quest cannot contain no more than 4 people.
+* Once user joins a quest and Clicks START, they will be redirected to NAVIGATION page.
+
+## Leaderboard Screen:
+* Once a user completes their quest, they will be rewarded with points considering their TIME. Every group who completes the quest will be rewarded with points and positions will be assigned as per the time taken to complete the quest.
+* Team name with their position will be seen in Leaderboard.
+
 
 
 ## Roles
