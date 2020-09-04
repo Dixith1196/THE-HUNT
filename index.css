@@ -24,15 +24,6 @@ outline:none;
 width:20rem
 
 }
-
-form{
-    margin-top: 5rem;
-    margin-left: auto;
-    margin-right: auto;
-    padding:10px;
-    width: 17rem;
-}
-
 #signup{
     border:1px black solid;
     border-radius: 25px;
@@ -40,9 +31,8 @@ form{
     color: white;
     padding:8px;
     width:5rem;
-    
+   
 }
-
 #two,#three{
     margin:10px;
     margin-left: auto;
@@ -54,7 +44,6 @@ table,th,tr{
     border-collapse: collapse;
     padding: 15px;
 }
-
 i{
     font-size: 48px;
     color:white;
