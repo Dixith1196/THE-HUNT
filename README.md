@@ -121,6 +121,13 @@ provide a quest name.
 ## Profile Tab
 * In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
+## Create Tab
+
+* In third tab, user will be able to see two options CREATE EVENT, CREATE QUEST.
+* Once you click on CREATE EVENT option, user will be prompted to fill in TEAM NAME, TEAM SIZE and INVITE friends.
+* After creating an event, user will be prompted to CREATE QUEST to fill in details like quest name, Team name, Time Limit
+  and points.
+
 
 ## Roles
 | Roles            | Names                |     
