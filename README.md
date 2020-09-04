@@ -146,7 +146,7 @@ provide a quest name.
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1.PNG?raw=true)
 
 ### JIRA Sprint-2
-![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint2.PNG?raw=true)
+![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint%202.PNG?raw=true)
 
 ### JIRA Sprint Progress
 ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Sprint1H1.PNG?raw=true)
