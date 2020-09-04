@@ -223,8 +223,6 @@ provide a quest name.
 * [Google](https://www.google.com/)
 * [Dribble](https://dribbble.com/) - for UI design reference
 
-## DEVELOPERS
-* Our project requires around six developers in bulding the progressive web App
 
 
 
