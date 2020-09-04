@@ -219,6 +219,9 @@ provide a quest name.
 ![hourly Billing Rates](https://github.com/Dixith1196/THE-HUNT/blob/master/hourlybillingrate.png)
 ![CostEstimation](https://github.com/Dixith1196/THE-HUNT/blob/master/cost%20estimation.PNG)
 
+## DEVELOPERS
+* Our project requires six designers in bulding the dynamic web App.
+
 ## Reference
 * [Google](https://www.google.com/)
 * [Dribble](https://dribbble.com/) - for UI design reference
