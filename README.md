@@ -119,7 +119,6 @@ provide a quest name.
 * Team name with their position will be seen in Leaderboard.
 
 ## Profile Tab
-
 * In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
 
