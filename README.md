@@ -128,6 +128,11 @@ provide a quest name.
 * In this screen, user can invite friends to join the team who are already signed up for the game
 * Users can also invite friends to the team while creating his own quest
 
+## Treasure Map Screen:
+* This screen is used to navigate users in the game location
+* we are looking to use third party library such as google maps or map box to help user navigate in the map
+* we will use user coordinates and location coordinates to match the treasure and complete quests
+
 ## Profile Tab
 * In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
