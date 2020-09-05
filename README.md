@@ -183,10 +183,13 @@ provide a quest name.
 
 #### Risk of location access
 * The process of poor coding and insecure handling of location data may cause the insecurity in accessing the location.
+* There might be the cases were the location won't be having the signal. in that case its really difficult to trace the location.
+* 
 
 #### Risk in the Operating System and data retrieval
 * Defects in the kernel code and vendor supplied system code may cause the Iphone or android jail breaks.
-* Risks in creating or managing the teams.
+* Risks in creating the teams.
+* Very difficult to manage group of teams.
 
 ### Assumptions
 * Although responsive design is similar to mobile app design, there is a significant difference in developing apps for any device versus stand alone.
