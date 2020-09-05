@@ -123,6 +123,11 @@ provide a quest name.
 * In this module, we use random location picker to assign treasure so that the user who created Event also can play the game
 * Teams need to accept the invitation to join the game
 
+## Create-Team Screen:
+* This screen is used to create team to join the game
+* In this screen, user can invite friends to join the team who are already signed up for the game
+* Users can also invite friends to the team while creating his own quest
+
 ## Profile Tab
 * In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
