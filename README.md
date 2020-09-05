@@ -118,15 +118,14 @@ provide a quest name.
 * Once a user completes their quest, they will be rewarded with points considering their TIME. Every group who completes the quest will be rewarded with points and positions       will be assigned as per the time taken to complete the quest.
 * Team name with their position will be seen in Leaderboard.
 
+## Create-Event Screen:
+* This screen is used to create quests and used to invite teams to the quest
+* In this module, we use random location picker to assign treasure so that the user who created Event also can play the game
+* Teams need to accept the invitation to join the game
+
 ## Profile Tab
 * In Profile page, User should be able to see their Name, Statistics, points earned, Team Name.
 
-## Create Tab
-
-* In third tab, user will be able to see two options CREATE EVENT, CREATE QUEST.
-* Once you click on CREATE EVENT option, user will be prompted to fill in TEAM NAME, TEAM SIZE and INVITE friends.
-* After creating an event, user will be prompted to CREATE QUEST to fill in details like quest name, Team name, Time Limit
-  and points.
 
 
 ## Roles
