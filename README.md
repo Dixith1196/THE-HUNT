@@ -47,7 +47,7 @@ We would like to create an app that can be played on a mobile device. The app wo
 provide a quest name.
 
 #### QuestLocation mapping
-* This entity consists of 2 attributes.Quest name and Location.
+* This entity consists of 2 attributes.Quest name and Locations.
 
 #### Location Entity
 * This entity consists of Locations,Location clue and Location coordinates.The designer provides a list of locations for the quest.
@@ -63,43 +63,43 @@ provide a quest name.
 * User can register in Sign-up module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## user Stories 
 * User can login in login module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * User can create a quest in create quest module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * User can send invitation to other members.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * The User should be able to accept or reject the invitation.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * User can manage his team in user profile module.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * The User should be able to provide list of locations for the quest and and provide location number.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * User can create competition.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * User should be able to provide start date, time and end data, time for the competition.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * In Leader-Board module, Statistics of the team will be displayed.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
-  
+  ## User Stories
 * In map module, navigation of the team will be displayed using their GPS tracking system.
   ### Acceptance criteria:
   The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
@@ -117,6 +117,7 @@ provide a quest name.
 ## Leaderboard Screen:
 * Once a user completes their quest, they will be rewarded with points considering their TIME. Every group who completes the quest will be rewarded with points and positions       will be assigned as per the time taken to complete the quest.
 * Team name with their position will be seen in Leaderboard.
+* It appears in such away that winner will be on the top and remainning positions will one below the other.
 
 ## Create-Event Screen:
 * This screen is used to create quests and used to invite teams to the quest
