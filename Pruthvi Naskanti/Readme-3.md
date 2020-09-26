@@ -18,6 +18,6 @@
     
 ## Half-Day3:
 
-* On day-3, our team conducted a zoom meeting where we discussed on back-end code that we need to develop that are specific to models and controllers. Addition to that, we shared   our on immediate activity where we are planning to deploy UI code and check if its upto desirable standards. Below is the screen-shot of zoom meeting conducted.
+* On day-3, our team conducted a zoom meeting where we discussed on back-end code that we need to develop that are specific to models and controllers. Addition to that, we shared   our views on immediate activity where we are planning to deploy UI code and check if its upto desirable standards. Below is the screen-shot of zoom meeting conducted.
 
     https://github.com/Dixith1196/THE-HUNT/blob/master/Pruthvi%20Naskanti/Screenshot%20(26).png?raw=true
