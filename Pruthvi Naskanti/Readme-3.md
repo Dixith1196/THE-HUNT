@@ -12,7 +12,8 @@
     
 ## Half-Day2:
 
-* On day-2, We discussed with Design Data team to get details regarding Entity-Relation model they are developing. After receiving those details, I have added few js files into       models folder and controllers folder specific to ER-Diagram.
+* On day-2, We discussed with Design Data team to get details regarding Entity-Relation model they are developing. After receiving those details our team reviewed entities,         attributes used for each entity, relation establishment between those entities. 
+* After we were done with our reviw on ER-Diagram, I have added few js files into models folder and controllers folder specific to ER-Diagram.
 
     https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/2c7f7695f5bef5e2f9c77cb911f0523ffdf08a07#diff-2068e59180763f350d66a42e828e7f96
     
