@@ -9,3 +9,13 @@
     http://cs04.nwmissouri.edu/browse/GDPGAM-249  
     
     ![](https://github.com/Dixith1196/THE-HUNT/blob/master/Pruthvi%20Naskanti/JIRApret.PNG?raw=true)
+    
+## Half-Day2:
+
+* On day-2, I have added few js files in models and controllers specific to ER-Diagram.
+    https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/2c7f7695f5bef5e2f9c77cb911f0523ffdf08a07#diff-2068e59180763f350d66a42e828e7f96
+    
+## Half-Day3:
+
+* On day-3, our team conducted a zoom meeting where we discussed on back-end code that we need to develop that are specific to models and controllers. Addition to that, we shared   our on immediate activity where we are planning to deploy UI code and check if its upto desirable standards. Below is the screen-shot of zoom meeting conducted.
+
