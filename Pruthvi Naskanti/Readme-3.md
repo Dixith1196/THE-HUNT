@@ -2,11 +2,11 @@
 
 ## Attendance 
 
-  09/21/2020    In-person
+ * 09/21/2020    In-person
   
-  09/23/2020    Online
+ * 09/23/2020    Online
   
-  09/25/2020    Online
+ * 09/25/2020    Online
 
 ## Half-Day1:
 
